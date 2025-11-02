@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm krankster, a computer science student from germany.<br><br>✨ The best feeling is when something you've thought finally works.<br>🏠 I host some services myself at home and try to keep them online.<br>🧪 I also enjoy trying out new things from time to time - like controlling a remote-controlled car with an ESP32-CAM microcontroller, or developing and experimenting with the Unity engine 🎮.<br>🎉 It's fun to see how something you've created actually does something - and doesn't just exist as lines of code 💻.</p>
+<p align="left">I'm krankster, a computer science student from Germany specializing in IT-Security & Infrastructure.<br><br>🔐 Passionate about offensive and defensive security, incident response, and digital forensics.<br>🏠 I maintain and secure my own homelab infrastructure – focusing on monitoring, hardening, and threat detection.<br>🧪 Active in penetration testing and security research – experimenting with tools like Kali Linux, Proxmox, and SIEM concepts.<br>💻 I believe security isn't just code – it's architecture, processes, and continuous learning.</p>
 
 ###
 
